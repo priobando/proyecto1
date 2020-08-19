@@ -1,3 +1,5 @@
 # proyecto1
 
-## pryecto 1 subtitulo
+## proyecto 1 subtitulo
+git config --global user.name "Priscilla Obando"
+git config --global user.email "pris.obando@gmail.com"
